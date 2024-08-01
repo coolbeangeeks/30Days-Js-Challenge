@@ -14,6 +14,8 @@ Daily Progress
 Day 1: [https://github.com/coolbeangeeks/30Days-Js-Challenge/tree/main/Day1]
 Day 2: [https://github.com/coolbeangeeks/30Days-Js-Challenge/tree/main/Day2]
 Day 3: [https://github.com/coolbeangeeks/30Days-Js-Challenge/tree/main/Day3]
+Day 5: [https://github.com/coolbeangeeks/30Days-Js-Challenge/tree/main/Day5]
+Day 6: [https://github.com/coolbeangeeks/30Days-Js-Challenge/tree/main/Day6]
 Special Thanks
 A huge shoutout and special thanks to Hitesh Chowdhary for starting this incredible initiative. Your dedication to empowering the coding community is truly inspiring. Thank you for providing this platform and motivating us to achieve our best!
 
